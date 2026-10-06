@@ -4,7 +4,7 @@
       "key": "hongniu",
       "name": "红牛资源",
       "type": 3,
-      "api": "https://zhouzhehong.dpdns.org/api.php/provide/vod/",
+      "api": "http://zhouzhehong.dpdns.org/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
