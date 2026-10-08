@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "hongniu",
+      "name": "红牛资源",
+      "type": 3,
+      "api": "https://tv.zhouzhehong.dpdns.org/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
